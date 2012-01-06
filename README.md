@@ -14,7 +14,9 @@ continue to step 1a.
 ### Step 1a: Join the organization ###
 Request to join the ArnoldWorldwide organization.
 Go to:
-    https://github.com/ArnoldWorldwide/Arnold-git-training/issues/1
+
+    https://github.com/ArnoldWorldwide/git-training/issues/1
+
 and post a message to the thread.
 
 ## Step 2: Install and configure git on your computer ##
