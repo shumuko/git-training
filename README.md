@@ -19,7 +19,9 @@ github organization, e.g. a vendor's org)*
 
 Request to join the ArnoldWorldwide organization.
 Go to:
+
 > https://github.com/ArnoldWorldwide/git-training/issues/1
+
 and post a message to the thread.
 
 ## Step 2: Install and configure git on your computer ##
@@ -36,10 +38,15 @@ below, call me over if you need help.
 *You will do this for every git repository you work on if it's on GitHub*
 
 Fork the training repository -- go to this page:
+
 > https://github.com/ArnoldWorldwide/git-training
+
 and click the "Fork" button to the right of the repository name.
 This will create a copy of the repository in YOUR GitHub account - e.g.,
+
 > https://github.com/davidosomething/git-training
+
 see the username in there?
 You can see who's forked the repository here:
+
 > https://github.com/ArnoldWorldwide/git-training/network/members
