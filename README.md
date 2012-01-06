@@ -47,4 +47,6 @@ This will create a copy of the repository in YOUR GitHub account - e.g.,
     https://github.com/davidosomething/git-training
 
 see the username in there?
+You can see who's forked the repository here:
 
+    https://github.com/ArnoldWorldwide/git-training/network/members
