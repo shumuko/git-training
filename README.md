@@ -152,7 +152,7 @@ You've committed your files, now push them to GitHub:
 
     git push
 
-Pushing means the envelope has been is not in the Post Office, and
+Pushing means the envelope is been sent to the Post Office, and
 recipients can pick it up! Anyone with access to your repository on
 GitHub can now view your new file at
 
